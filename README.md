@@ -33,6 +33,12 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
             alt="postgresql" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
+            src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+            alt="mongodb" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
+            src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"
+            alt="firebase" /></a>
     <br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
             src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"
@@ -49,7 +55,7 @@
 ![ Code Not My Father's
 ](https://github-readme-stats.vercel.app/api?username=suriyaz&show_icons=true&theme=dark&count_private=true)
 
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaz" /> 
+<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=suriyaz" />
 
 **Github Theme Credit**
 [ anuraghazra's Github ](https://github.com/anuraghazra/github-readme-stats)
